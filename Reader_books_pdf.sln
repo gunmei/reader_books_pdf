@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29905.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reader_books_pdf", "Reader_books_pdf\Reader_books_pdf.csproj", "{2EC69B8A-9D49-4202-ADEE-7439CCB74D10}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2EC69B8A-9D49-4202-ADEE-7439CCB74D10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EC69B8A-9D49-4202-ADEE-7439CCB74D10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EC69B8A-9D49-4202-ADEE-7439CCB74D10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EC69B8A-9D49-4202-ADEE-7439CCB74D10}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B92A31D6-5F02-4A21-8829-8E46D96725CC}
+	EndGlobalSection
+EndGlobal
